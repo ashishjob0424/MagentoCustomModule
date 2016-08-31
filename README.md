@@ -1,0 +1,3 @@
+# MagentoCustomModule
+MyCustomModule
+
